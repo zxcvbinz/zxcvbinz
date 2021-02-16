@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+### I'm zxcvbinz...
+##42Ecole Stats
+```bash
+                                         $$\       $$\                     
+                                         $$ |      \__|                    
+$$$$$$$$\ $$\   $$\  $$$$$$$\ $$\    $$\ $$$$$$$\  $$\ $$$$$$$\  $$$$$$$$\ 
+\____$$  |\$$\ $$  |$$  _____|\$$\  $$  |$$  __$$\ $$ |$$  __$$\ \____$$  |
+  $$$$ _/  \$$$$  / $$ /       \$$\$$  / $$ |  $$ |$$ |$$ |  $$ |  $$$$ _/ 
+ $$  _/    $$  $$<  $$ |        \$$$  /  $$ |  $$ |$$ |$$ |  $$ | $$  _/   
+$$$$$$$$\ $$  /\$$\ \$$$$$$$\    \$  /   $$$$$$$  |$$ |$$ |  $$ |$$$$$$$$\ 
+\________|\__/  \__| \_______|    \_/    \_______/ \__|\__|  \__|\________|
+```                                                                                               
+<p align="center">
+	<img align="center" src="https://badge42.herokuapp.com/api/stats/dlanotte"/>
+</p>
 
-<!--
-**zxcvbinz/zxcvbinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
