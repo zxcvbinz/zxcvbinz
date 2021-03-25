@@ -16,7 +16,7 @@ $$$$$$$$\ $$  /\$$\ \$$$$$$$\    \$  /   $$$$$$$  |$$ |$$ |  $$ |$$$$$$$$\
 
 ## Try now my 42utils for 42School!
 <a href="https://github.com/zxcvbinz/42-utils"><p align="center">
-	Click to try!
+	Click to try! [!Valgrind installer coming soon!]
 </p></a>
 
 ```bash
