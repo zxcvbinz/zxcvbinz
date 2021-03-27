@@ -6,7 +6,7 @@
  ███     ██ ██  ██       ██  ██  ██   ██ ██ ██  ██ ██  ███    
 ███████ ██   ██  ██████   ████   ██████  ██ ██   ████ ███████                                  
 ```    
-#### I'm interested to ```.swift ```,  ```.c ```,   ```.cpp ```,   ```.s ```,   ```.php ```,   ```.unity ```,   ```.zsh ``` and  ```.react ```!                     
+#### I'm interested to `.swift`,  `.c`,   `.cpp`,   `.s`,   `.php`,   `.unity`,   `.zsh` and `.react`!                     
 ## 42Ecole Stats
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dlanotte)](https://github.com/JaeSeoKim/badge42)
 
