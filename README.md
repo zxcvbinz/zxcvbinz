@@ -15,10 +15,8 @@
 	Click to try 42-utils! [!Valgrind installer coming soon!]
 </p></a>
 
-<div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42-utils&theme=radical)](https://github.com/zxcvbinz/42-utils)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42cursus&theme=radical)](https://github.com/zxcvbinz/42cursus)
-</div>
 
 ## Github Stats
 ![zxcvbinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcvbinz&show_icons=true&theme=radical)
