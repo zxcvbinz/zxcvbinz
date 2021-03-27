@@ -10,9 +10,7 @@ $$$$$$$$\ $$  /\$$\ \$$$$$$$\    \$  /   $$$$$$$  |$$ |$$ |  $$ |$$$$$$$$\
 \________|\__/  \__| \_______|    \_/    \_______/ \__|\__|  \__|\________|
 ```                              
 ## 42Ecole Stats
-<p align="center">
-	<img align="center" src="https://badge42.herokuapp.com/api/stats/dlanotte"/>
-</p>
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dlanotte)](https://github.com/JaeSeoKim/badge42)
 
 ## Try now my 42utils for 42School!
 <a href="https://github.com/zxcvbinz/42-utils"><p align="center">
