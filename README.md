@@ -7,8 +7,8 @@
 ███████ ██   ██  ██████   ████   ██████  ██ ██   ████ ███████                                  
 ```    
 #### I'm interested to `.swift`,  `.c`,   `.cpp`,   `.s`,   `.php`,   `.unity`,   `.zsh` and `.react`!                     
-<!--## 42Ecole Stats
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dlanotte)](https://github.com/JaeSeoKim/badge42) -->
+## 42Ecole Stats
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dlanotte)](https://github.com/JaeSeoKim/badge42)
 
 ## Try now my 42 projects for 42School!
 <a href="https://github.com/zxcvbinz/42-utils"><p align="center">
