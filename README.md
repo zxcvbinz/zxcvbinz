@@ -16,7 +16,7 @@
 </p></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42-utils&theme=radical)](https://github.com/zxcvbinz/42-utils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42-school&theme=radical)](https://github.com/zxcvbinz/42-school)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42-school&theme=radical)](https://github.com/dlanotte42/42-school)
 
 ## Github Stats
 ![zxcvbinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcvbinz&show_icons=true&theme=radical)
