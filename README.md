@@ -4,7 +4,7 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dlanotte)](https://github.com/JaeSeoKim/badge42)
 
 ## Try now my 42 projects for 42School!
-<a href="https://github.com/zxcvbinz/42UtilsV2-Clients"><p align="center">
+<a href="https://github.com/zxcvbinz/42UtilsV2-Client"><p align="center">
 	[NEW] 42UtilsV2!
 </p></a>
 
