@@ -8,7 +8,7 @@
 	[NEW] 42UtilsV2!
 </p></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42-utils&theme=radical)](https://github.com/zxcvbinz/42-utils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxcvbinz&repo=42UtilsV2-Client&theme=radical)](https://github.com/zxcvbinz/42UtilsV2-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dlanotte42&repo=42-school&theme=radical)](https://github.com/dlanotte42/42-school)
 
 ## Github Stats
