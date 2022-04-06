@@ -1,4 +1,5 @@
-# Hi there 👋 I'm zxcvbinz...
+![zxcvbinz](https://capsule-render.vercel.app/api?type=slice&color=0081CF&height=200&text=Hello,%20i%27m%20zxcvbinz&fontSize=50&fontAlign=70&rotate=13&fontAlignY=25&desc=based%20in%20Rome.&descAlign=70.&descAlignY=44)
+
 ![zxcvbinz-script](https://i.imgur.com/4DQD9ff.png)
 
 ---
