@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Full-Stack Developer</h3>
+
 ![zxcvbinz-script](https://i.imgur.com/4DQD9ff.png)
 
 ---
