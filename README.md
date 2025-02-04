@@ -1,4 +1,4 @@
-<h1 align="center">Hi :), I'm Davide</h1>
+<h1 align="center">Hi 😄, I'm Davide</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 ![zxcvbinz-script](https://imgur.com/DlP14zx.png)
